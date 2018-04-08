@@ -22,7 +22,7 @@ public class CalculTest{
 	}
 	@Test
 	public void testCalculerDiv() throws Exception {
-		assertNotEquals(1, Calcul.calculerDiv(4,0));
+		assertNotEquals(1, Calcul.calculerDiv(5,0));
 	}
 
 
